@@ -25,7 +25,7 @@ let questions = [
     {
     numb: 3,
     question: "Quien va a hacer la WBR la semana próxima?",
-    answer: "Rosa",
+    answer: "Dotto",
     options: [
       "Dotto",
       "Gabriela",
@@ -35,13 +35,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "Que es Raydel?",
-    answer: "Un moustro",
+    question: "Quien va a descanzar la semana entera y fumar Winston?",
+    answer: "Raydel",
     options: [
-      "Un bobo",
-      "Un loco",
-      "Hermoso",
-      "Un moustro"
+      "Dotto",
+      "Gabriela",
+      "Alessa",
+      "Raydel"
     ]
   },
     {
