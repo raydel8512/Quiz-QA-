@@ -1,4 +1,4 @@
-// creating an array and passing the number, questions, options, and answers
+// creando una matriz y pasando el número, preguntas, opciones y respuestas
 let questions = [
     {
     numb: 1,
@@ -59,13 +59,13 @@ let questions = [
   // pero recuerda que necesitas dar el valor adormecido serializar como 1,2,3,5,6,7,8,9.....
   //   {
   //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
+  //   question: "Escribe la pregunta aqui",
+  //   answer: "Escribe exactamente la respuesta correcta",
   //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
+  //     "Opcion 1",
+  //     "opcion 2",
+  //     "opcion 3",
+  //     "opcion 4"
   //   ]
   // },
 ];
