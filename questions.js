@@ -16,9 +16,9 @@ let questions = [
     question: "Debe salir Dotto de almuerzo?",
     answer: "No",
     options: [
-      "No",
+      "Después de las 17h",
       "Mas tarde",
-      "Despues de las 17h",
+      "No",
       "Mañana"
     ]
   },
@@ -27,8 +27,8 @@ let questions = [
     question: "Quien va a hacer la WBR la semana próxima?",
     answer: "Dotto",
     options: [
-      "Dotto",
       "Gabriela",
+      "Dotto",
       "Raydel",
       "Alessa"
     ]
